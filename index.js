@@ -1,4 +1,4 @@
-//alert(" Not Responsive !! Only For Computer Screen !! Made By Harsh");
+alert(" Not Responsive !! Only For Computer Screen !! Made By Harsh");
 const myForm = document.querySelector("#my-form");
 const msg = document.querySelector(".msg");
 const nameInput = document.querySelector("#name");
